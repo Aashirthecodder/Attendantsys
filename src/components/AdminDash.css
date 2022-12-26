@@ -1,0 +1,42 @@
+.img-dash{
+    text-align: center;
+    
+    margin-top: 65px;
+  
+  }
+  .btn-dash{
+      height: 70px;
+      border: none;
+      border-radius: 11px;
+      color: white;
+      margin-right: 14px;
+      width: 160px;
+      font-size: 11px;
+      background-color: #20dac2;
+      cursor:pointer;
+      box-shadow: 0 9px #999;
+
+  }
+  .head-dash{
+      color: #20dac2;
+  }
+  .settingbtn{
+    position: absolute;
+    right: 31%;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+  
+.settingbtn:active {
+
+  
+    transform: translateY(4px);
+  }
+
+  
+.btn-dash:active {
+
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }

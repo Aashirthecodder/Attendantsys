@@ -1,0 +1,33 @@
+.table{
+    margin: 0 auto;
+    width: 60%;
+    background-color: #00bfa6;
+    margin-top:2%
+}
+.thead{
+    background-color:#20dbc2
+}
+.heading{
+    text-align: center;
+    margin-top:20px;
+    color:#00bfa6
+}
+.attend-search{
+    border-color: #01bfa6;
+    height: 35px;
+    border-radius: 13px;
+    width: 27%;
+    padding-left: 21px;
+    margin-top: 40px;
+    margin-bottom: 24px;
+    text-align: initial;
+}
+
+.modal-body{
+    text-align: center;
+    margin: 0 auto;
+    width: 65%;
+}
+.btn{
+    height: 50px;
+}

@@ -1,0 +1,20 @@
+.img-dash{
+    text-align: center;
+    
+    margin-top: 65px;
+  
+  }
+  .btn-dash{
+      height: 70px;
+      border: none;
+      border-radius: 11px;
+      color: white;
+      margin-right: 14px;
+      width: 160px;
+      font-size: 11px;
+      background-color: #20dac2;
+      cursor:pointer;
+  }
+  .head-dash{
+      color: #20dac2;
+  }

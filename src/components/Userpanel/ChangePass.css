@@ -1,0 +1,36 @@
+
+.forget-pass{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.forget-h1{
+    color:#09bea1
+}
+
+.main-div{
+    background-color: #01bfa6;
+    margin: 0 auto;
+    width: 22%;
+    border-radius: 22px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.forget-input{
+    border-radius: 13px;
+    height: 25px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+button{
+    margin-top: 32px;
+    width: 86px;
+    height: 30px;
+    border-radius: 20px;
+    margin-right: 11px;
+    margin-bottom: 43px;
+    border: none;
+    cursor: pointer;
+
+}
